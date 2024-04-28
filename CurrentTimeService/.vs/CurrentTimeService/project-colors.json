@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c9d81c2-545e-469e-8dc4-b819ff02c3b5": {
+      "ProjectGuid": "6c9d81c2-545e-469e-8dc4-b819ff02c3b5",
+      "DisplayName": "CurrentTimeService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
