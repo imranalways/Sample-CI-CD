@@ -514,11 +514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Folders\\CI_CD\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
+      "projectUniqueName": "D:\\My Folders\\CI_CD\\Sample-CI-CD\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
       "projectName": "CurrentTimeService",
-      "projectPath": "D:\\My Folders\\CI_CD\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
+      "projectPath": "D:\\My Folders\\CI_CD\\Sample-CI-CD\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
       "packagesPath": "C:\\Users\\imran.hossain\\.nuget\\packages\\",
-      "outputPath": "D:\\My Folders\\CI_CD\\CurrentTimeService\\CurrentTimeService\\obj\\",
+      "outputPath": "D:\\My Folders\\CI_CD\\Sample-CI-CD\\CurrentTimeService\\CurrentTimeService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
